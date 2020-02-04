@@ -116,9 +116,10 @@
 
 -->
 
-## Top 3 best resources:
+## Top 4 best resources:
 1. [**Mlcourse.ai**](http://mlcourse.ai) (advanced)
 2. [**Kaggle learn**](https://www.kaggle.com/learn) (easy)
 3. [**Fast.ai ML**](http://course18.fast.ai/ml) (easy)
+4. [**Deep Learning**](https://www.fast.ai/) (advanced)
 
 
