@@ -142,14 +142,21 @@
 <table>  
   <!-----------------------------------  🕐 8. Time series ----------------------------------->
   <tr>
-    <th rowspan="4"><h3>🕐<a href="#">8. Time series</a></h3></th>
-    <td>8.1 Feature engineering for temporal data</td>
-    <td><a href="https://colab.research.google.com/github/CenticMurcia/curso-ciencia-datos/blob/master/08.%20Time%20Series/8.1%20TimeSeries%20with%20Prophet.ipynb"><img src="img/colab.svg"/></a></td>
+    <th width="40%" rowspan="3"><h3>🔤<a href="/08.%20Time%20Series">8. Time Series</a></h3></th>
+    <td width="40%"><a href="/08.%20Time%20Series/8.1%20TimeSeries%20with%20Prophet%20-%20Walmart.ipynb">8.1 TimeSeries with Prophet 1</a></td>
+    <td><a href="https://colab.research.google.com/github/CenticMurcia/curso-ciencia-datos/blob/master/08.%20Time%20Series/8.1%20TimeSeries%20with%20Prophet%20-%20Walmart.ipynb"><img src="img/colab.svg"/></a></td>
   </tr>
-  <tr><td>8.2 ARIMA</td></tr>
-  <tr><td>8.3 Facebook Prophet</td></tr>
-  <tr><td>8.4 Exercise</td></tr>
-  
+  <tr>
+    <td><a href="/08.%20Time%20Series/8.2%20TimeSeries%20with%20Prophet%20-%20Medium%20posts.ipynb">8.2 TimeSeries with Prophet 2</a></td>
+    <td><a href="https://colab.research.google.com/github/CenticMurcia/curso-ciencia-datos/blob/master/08.%20Time%20Series/8.2%20TimeSeries%20with%20Prophet%20-%20Medium%20posts.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="/08.%20Time%20Series/8.3%20Ejercicio%20en%20Kaggle.ipynb">8.3 Ejercicio en Kaggle</a></td>
+    <td><a href="https://colab.research.google.com/github/CenticMurcia/curso-ciencia-datos/blob/master/08.%20Time%20Series/8.3%20Ejercicio%20en%20Kaggle.ipynb"><img src="img/colab.svg"/></a></td>
+  </tr>
+</table>
+
+<table>
   <!---------------------------------  ⛏️ 9. Process Mining --------------------------------->
   <tr>
     <th rowspan="2"><h3>⛏️<a href="#">9. Process Mining</a></h3></th>
